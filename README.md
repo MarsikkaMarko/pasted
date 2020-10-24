@@ -1,0 +1,4 @@
+# pasted
+paste
+
+inside pasted
